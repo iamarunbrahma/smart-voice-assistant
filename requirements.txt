@@ -1,0 +1,5 @@
+numpy==1.21.6
+numba==0.55.1
+TTS==0.12.0
+openai-whisper
+openai==0.27.2
