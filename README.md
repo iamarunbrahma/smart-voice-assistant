@@ -11,7 +11,7 @@ Now, install all libraries by running the following command in the terminal:<br>
 ```python
 pip install -r requirements.txt
 ```
-<br>
+<be><br>
 Now, run the app from the terminal:<br>
 ```python
 gradio app.py
